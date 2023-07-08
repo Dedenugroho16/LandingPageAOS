@@ -1,0 +1,46 @@
+.bg-main {
+    background: #001d3d;
+}
+
+.carousel-item {
+    height: 70vh;
+}
+
+.carousel-item img {
+    height: 70vh;
+    object-fit: cover;
+}
+
+.statistics {
+    margin-top: -3.5rem;
+    position: relative;
+}
+
+.statistic-item {
+    background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59);
+    color: #fff;
+    padding: 1rem 0;
+}
+
+.services,
+.quality,
+.testimoni {
+    margin: 20rem 0;
+}
+
+.testimoni {
+    padding: 2rem 0;
+    background: linear-gradient(to right, #ee9ca7, #ffdde1);
+}
+
+.testimoni-head {
+    color: #fff;
+}
+
+footer {
+    padding: 2rem 0;
+}
+
+.img-quality {
+    z-index: 999999;
+}
